@@ -16,4 +16,4 @@ To get started with this project, follow these steps:
    First, clone the repository to your local machine:
 
    ```bash
-https://github.com/darku5s/hummus.git
+   https://github.com/darku5s/hummus.git
